@@ -13,7 +13,7 @@ Three bootstrap components i.e accordion, modal and navbar is made using HTML an
 ### Modal
 ![](screenshots/modal.png)<br>
 ### Navbar
-![](screenshots/chat.png)
+![](screenshots/navbar.png)
 
 ### Built With
 * HTML5
